@@ -1,3 +1,4 @@
-class Node:
-	def __init__(self):
-		pass
+from graph import Graph
+
+
+graph = Graph("properties.json")
